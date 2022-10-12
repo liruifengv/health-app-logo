@@ -1,6 +1,7 @@
 # health-app-logo
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/liruifengv/health-app-logo/pulls)
 
-此仓库收集全国各地健康类 app 的图标 logo 。[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/liruifengv/health-app-logo/pulls)
+此仓库收集全国各地健康类 app 的图标 logo。
 
 ## 北京
 <div>
