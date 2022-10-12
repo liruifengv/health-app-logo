@@ -22,3 +22,8 @@
 <div>
   <img src="./images/山西省健康码.png" width="100px" height="100px">
 <div>
+
+## 陕西
+<div>
+  <img src="./images/陕西一码通.png" width="100px" height="100px">
+<div>
