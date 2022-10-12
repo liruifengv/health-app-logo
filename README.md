@@ -28,3 +28,8 @@
 <div>
   <img src="./images/陕西一码通.png" width="100px" height="100px">
 </div>
+
+## 重庆
+<div>
+  <img src="./images/重庆渝康码.png" width="100px" height="100px">
+</div>
