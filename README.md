@@ -6,25 +6,25 @@
 ## 北京
 <div>
   <img src="./images/北京健康宝.png" width="100px" height="100px">
-<div>
+</div>
 
 ## 天津
 <div>
   <img src="./images/天津数字防疫.png" width="100px" height="100px">
   <img src="./images/津心办.png" width="100px" height="100px">
-<div>
+</div>
 
 ## 河北
 <div>
   <img src="./images/河北健康码.png" width="100px" height="100px">
-<div>
+</div>
 
 ## 山西
 <div>
   <img src="./images/山西省健康码.png" width="100px" height="100px">
-<div>
+</div>
 
 ## 陕西
 <div>
   <img src="./images/陕西一码通.png" width="100px" height="100px">
-<div>
+</div>
