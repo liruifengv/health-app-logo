@@ -38,3 +38,9 @@
 <div>
   <img src="./images/广东粤康码.png" width="100px" height="100px">
 </div>
+
+## 辽宁
+<div>
+  <img src="./images/辽事通码.png" width="100px" height="100px">
+</div>
+
